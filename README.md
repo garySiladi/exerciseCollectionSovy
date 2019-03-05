@@ -1,2 +1,0 @@
-# exerciseCollectionSovy
-Created with CodeSandbox
