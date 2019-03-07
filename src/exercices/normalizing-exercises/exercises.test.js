@@ -1,4 +1,4 @@
-import exercices from "./exercices";
+import exercices from ".";
 
 test("exercise input equals output", () => {
   exercices.forEach(exercise => {
